@@ -91,7 +91,7 @@ python src/train_lstm.py --ticker AAPL --epochs 20
 
 ---
 
-## 🧪 Run the App
+## Run the App
 
 ```bash
 streamlit run app.py
@@ -107,8 +107,6 @@ streamlit run app.py
 ---
 
 ##  Example Screenshots
-
-> Replace with actual images from your `models/` folder
 
 ![Prophet Forecast](models/AAPL_prophet_forecast.png)
 ![LSTM Loss](models/AAPL_lstm_loss.png)
