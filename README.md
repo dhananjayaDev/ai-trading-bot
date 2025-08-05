@@ -1,5 +1,7 @@
 # AI Trading Bot
 
+![Banner](https://github.com/dhananjayaDev/ai-trading-bot/blob/main/trading-bot-banner.png)
+
 An intelligent trading assistant that predicts stock prices using **LSTM** and **Prophet**, fetches live market data, and makes auto-decisions (BUY / SELL / HOLD). Built with a clean Streamlit dashboard for real-time interaction and recruiter-friendly presentation.
 
 ---
