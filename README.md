@@ -151,5 +151,5 @@ Each entry includes:
 
 ##  License
 
-(https://github.com/dhananjayaDev/ai-trading-bot?tab=MIT-1-ov-file)[MIT License]
+MIT (https://github.com/dhananjayaDev/ai-trading-bot?tab=MIT-1-ov-file)[License]
 
